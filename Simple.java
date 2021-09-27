@@ -3,5 +3,6 @@ class Simple{
      System.out.println("Hello Java");  
      System.out.println("Git and Jenkins integration demo"); 
      System.out.println("Modified");
+System.out.println("job ");
     }  
 }  
